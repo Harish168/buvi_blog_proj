@@ -30,7 +30,7 @@ const Home = () => {
           </Popup>
           <img src={bookpg} alt='profile' />
         </div>
-      </div>
+      </div> 
     </div>
   );
 };
