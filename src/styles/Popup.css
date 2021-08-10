@@ -1,0 +1,32 @@
+.popup{
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 25px;
+    width: 100%;
+    height: 100vh; 
+    background-color: rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.PopupBox{
+    margin: 15px;
+    background-color: blue;
+}
+.h3{
+    text-align: center;
+    color: lawngreen;
+}
+.p{
+    color: red;
+}
+.popup-inner{
+    height: 50%;
+    position: relative;
+    padding: 32px;
+    width: 100%;
+    max-width: 640px;
+    max-height: 500px;
+    background-color: rgb(148, 21, 21);
+}
